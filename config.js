@@ -1,14 +1,14 @@
 /*
  * Base By Ednut
  * Created On 11/10/2024
- * Contact Me on wa.me/2348102487241
+ * Contact Me on wa.me/2348035936169
 */
 
 const chalk = require("chalk")
 const fs = require("fs")
 
 //======= Change settings =======\\
-global.owner = ["2347036214381"] // owner number 
+global.owner = ["2348035936169"] // owner number 
 global.botname = ["Arch Md"] // don't change 
 global.simbol = "♘" // don't change 
 global.typeMenu = 'v1' //don't change 
